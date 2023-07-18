@@ -1,0 +1,1 @@
+DATABASE_URI = 'postgresql+psycopg2://db_admin:adminadmin@localhost:5432/books'
